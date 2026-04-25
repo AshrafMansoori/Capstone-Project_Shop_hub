@@ -3,6 +3,9 @@
 Live Demo: [https://capstone-project-shop-hub.onrender.com](https://capstone-project-shop-hub.onrender.com)
 
 ---
+##OUTPUT
+<img width="1826" height="913" alt="Screenshot 2026-04-25 181307" src="https://github.com/user-attachments/assets/bfce64ae-d0e7-434c-bebc-fb1e9f617673" />
+
 
 ## Overview
 Shop Hub is a full-stack e-commerce web application built with the MERN stack (MongoDB, Express, React, Node.js). It features user authentication, product management, shopping cart, order processing, and admin controls.
